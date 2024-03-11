@@ -39,7 +39,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Better luck next time!");
+            Console.WriteLine("Try again next time!");
         }
     }
 }
